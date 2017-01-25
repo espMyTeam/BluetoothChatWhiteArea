@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\InsPiron\\AndroidStudioProjects\\BluetoothChat-master\\app\\build\\intermediates\\res\\merged\\release\\drawable\\send_img.PNG",
+        "source": "C:\\Users\\InsPiron\\AndroidStudioProjects\\BluetoothChat-master\\app\\src\\main\\res\\drawable\\send_img.PNG"
+    },
+    {
+        "merged": "C:\\Users\\InsPiron\\AndroidStudioProjects\\BluetoothChat-master\\app\\build\\intermediates\\res\\merged\\release\\drawable\\send_pic.png",
+        "source": "C:\\Users\\InsPiron\\AndroidStudioProjects\\BluetoothChat-master\\app\\src\\main\\res\\drawable\\send_pic.png"
+    },
+    {
+        "merged": "C:\\Users\\InsPiron\\AndroidStudioProjects\\BluetoothChat-master\\app\\build\\intermediates\\res\\merged\\release\\drawable\\send_selected.png",
+        "source": "C:\\Users\\InsPiron\\AndroidStudioProjects\\BluetoothChat-master\\app\\src\\main\\res\\drawable\\send_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\InsPiron\\AndroidStudioProjects\\BluetoothChat-master\\app\\build\\intermediates\\res\\merged\\release\\drawable\\bubble2.9.png",
+        "source": "C:\\Users\\InsPiron\\AndroidStudioProjects\\BluetoothChat-master\\app\\src\\main\\res\\drawable\\bubble2.9.png"
+    },
+    {
+        "merged": "C:\\Users\\InsPiron\\AndroidStudioProjects\\BluetoothChat-master\\app\\build\\intermediates\\res\\merged\\release\\drawable\\bubble1.9.png",
+        "source": "C:\\Users\\InsPiron\\AndroidStudioProjects\\BluetoothChat-master\\app\\src\\main\\res\\drawable\\bubble1.9.png"
+    },
+    {
+        "merged": "C:\\Users\\InsPiron\\AndroidStudioProjects\\BluetoothChat-master\\app\\build\\intermediates\\res\\merged\\release\\drawable\\send.PNG",
+        "source": "C:\\Users\\InsPiron\\AndroidStudioProjects\\BluetoothChat-master\\app\\src\\main\\res\\drawable\\send.PNG"
+    },
+    {
+        "merged": "C:\\Users\\InsPiron\\AndroidStudioProjects\\BluetoothChat-master\\app\\build\\intermediates\\res\\merged\\release\\drawable\\app_icon.png",
+        "source": "C:\\Users\\InsPiron\\AndroidStudioProjects\\BluetoothChat-master\\app\\src\\main\\res\\drawable\\app_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\InsPiron\\AndroidStudioProjects\\BluetoothChat-master\\app\\build\\intermediates\\res\\merged\\release\\drawable\\send_button.xml",
+        "source": "C:\\Users\\InsPiron\\AndroidStudioProjects\\BluetoothChat-master\\app\\src\\main\\res\\drawable\\send_button.xml"
+    }
+]

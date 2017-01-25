@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\InsPiron\\AndroidStudioProjects\\BluetoothChat-master\\app\\build\\intermediates\\res\\merged\\release\\layout\\message.xml",
+        "source": "C:\\Users\\InsPiron\\AndroidStudioProjects\\BluetoothChat-master\\app\\src\\main\\res\\layout\\message.xml"
+    },
+    {
+        "merged": "C:\\Users\\InsPiron\\AndroidStudioProjects\\BluetoothChat-master\\app\\build\\intermediates\\res\\merged\\release\\layout\\main.xml",
+        "source": "C:\\Users\\InsPiron\\AndroidStudioProjects\\BluetoothChat-master\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\InsPiron\\AndroidStudioProjects\\BluetoothChat-master\\app\\build\\intermediates\\res\\merged\\release\\layout\\device_list.xml",
+        "source": "C:\\Users\\InsPiron\\AndroidStudioProjects\\BluetoothChat-master\\app\\src\\main\\res\\layout\\device_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\InsPiron\\AndroidStudioProjects\\BluetoothChat-master\\app\\build\\intermediates\\res\\merged\\release\\layout\\custom_title.xml",
+        "source": "C:\\Users\\InsPiron\\AndroidStudioProjects\\BluetoothChat-master\\app\\src\\main\\res\\layout\\custom_title.xml"
+    },
+    {
+        "merged": "C:\\Users\\InsPiron\\AndroidStudioProjects\\BluetoothChat-master\\app\\build\\intermediates\\res\\merged\\release\\layout\\device_name.xml",
+        "source": "C:\\Users\\InsPiron\\AndroidStudioProjects\\BluetoothChat-master\\app\\src\\main\\res\\layout\\device_name.xml"
+    }
+]
